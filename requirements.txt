@@ -1,0 +1,16 @@
+numpy
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain_openai
+langgraph
+langchainhub
+langchain-text-splitters
+tiktoken
+pandas
+langchain-google-genai
